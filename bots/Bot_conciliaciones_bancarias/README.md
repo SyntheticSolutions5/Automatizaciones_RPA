@@ -13,13 +13,13 @@ Junio 2024
 ---
 
 ## Contenido  
-1 Introducción
-2 Objetivos
-3 Alcance
-4 Tecnologías utilizadas
-5 Resultados obtenidos
-6 Confidencialidad
-7 Contacto
+1. Introducción
+2. Objetivos
+3. Alcance
+4. Tecnologías utilizadas
+5. Resultados obtenidos
+6. Confidencialidad
+7. Contacto
 
 ---
 
