@@ -13,14 +13,14 @@ Marzo 2023
 ---
 
 ## Contenido  
-1 Introducción
-2 Objetivos
-3 Alcance
-4 Arquitectura del proceso
-5 Tecnologías utilizadas
-6 Resultados obtenidos
-7 Lecciones aprendidas
-8 Confidencialidad
+1. Introducción
+2. Objetivos
+3. Alcance
+4. Arquitectura del proceso
+5. Tecnologías utilizadas
+6. Resultados obtenidos
+7. Lecciones aprendidas
+8. Confidencialidad
 
 ---
 
