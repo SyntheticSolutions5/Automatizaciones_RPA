@@ -13,16 +13,16 @@ Abril 2024
 ---
 
 ## Contenido  
-1 Introducción
-2 Objetivos
-3 Alcance
-4 Flujo del proceso
-5 Diseño de solución
-6 Tecnologías utilizadas
-7 Resultados obtenidos
-8 Conclusiones estratégicas
-9 Confidencialidad
-10 Contacto
+1. Introducción
+2. Objetivos
+3. Alcance
+4. Flujo del proceso
+5. Diseño de solución
+6. Tecnologías utilizadas
+7. Resultados obtenidos
+8. Conclusiones estratégicas
+9. Confidencialidad
+10. Contacto
 
 ---
 
