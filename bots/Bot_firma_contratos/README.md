@@ -1,11 +1,11 @@
 
-# Synthetic Solutions - Proyecto RPA: Firma de PDF de contratos - API REST de Microsoft Graph
+# Synthetics Solutions - Proyecto RPA: Firma de PDF de contratos - API REST de Microsoft Graph
 
 ## Cliente / Industria  
 Sector salud – Operaciones
 
 ## Desarrollado por  
-Synthetic Solutions
+Synthetics Solutions
 
 ## Fecha de creación  
 Abril 2024
@@ -105,7 +105,7 @@ La automatización desarrollada en Python ejecuta las siguientes actividades par
 
 ## 8. Conclusiones estratégicas  
 - La automatización mejoró la precisión y trazabilidad de la gestión documental, liberando tiempo para que los equipos internos se enfoquen en tareas estratégicas.  
-- Synthetic Solution jugó un papel clave en agilizar la implementación del proyecto, proporcionando experiencia técnica en la automatización y validación de documentos.  
+- Synthetics Solutions jugó un papel clave en agilizar la implementación del proyecto, proporcionando experiencia técnica en la automatización y validación de documentos.  
 - Este caso demuestra cómo la tercerización especializada en RPA puede aportar valor tangible a proyectos liderados internamente, acelerando resultados y garantizando sostenibilidad técnica.
 
 ---
