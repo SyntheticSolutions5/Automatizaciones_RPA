@@ -13,14 +13,14 @@ Abril 2023
 ---
 
 ## Contenido  
-1 Introducción
-2 Objetivos
-3 Alcance
-4 Tecnologías utilizadas
-5 Resultados obtenidos
-6 Conclusiones estratégicas
-7 Confidencialidad
-8 Contacto
+1. Introducción
+2. Objetivos
+3. Alcance
+4. Tecnologías utilizadas
+5. Resultados obtenidos
+6. Conclusiones estratégicas
+7. Confidencialidad
+8. Contacto
 
 ---
 
