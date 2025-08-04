@@ -13,17 +13,17 @@ Marzo 2024
 ---
 
 ## Contenido  
-1 Introducción
-2 Objetivos
-3 Alcance
-4 Arquitectura de contexto
-5 Diagrama de despliegue
-6 Diagrama de componentes
-7 Tecnologías utilizadas
-8 Flujo del proceso
-9 Resultados obtenidos
-10 Confidencialidad
-11 Contacto
+1. Introducción
+2. Objetivos
+3. Alcance
+4. Arquitectura de contexto
+5. Diagrama de despliegue
+6. Diagrama de componentes
+7. Tecnologías utilizadas
+8. Flujo del proceso
+9. Resultados obtenidos
+10. Confidencialidad
+11. Contacto
 
 ---
 
